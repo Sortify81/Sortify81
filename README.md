@@ -1,5 +1,5 @@
 # Sortify
-**Team ID: CC25-CF320 **  
+Team ID: CC25-CF320 
 
 <p align="center">
   <img src="your-image-name.png" alt="Project Logo" height="160"/>
