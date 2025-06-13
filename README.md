@@ -2,7 +2,7 @@
 Team ID: CC25-CF320 
 
 <p align="center">
-  <img src="your-image-name.png" alt="Project Logo" height="160"/>
+  <img src="Image/logosortify2 (1).png" alt="Project Logo" height="160"/>
 </p>
 
 ---
