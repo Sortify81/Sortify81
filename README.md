@@ -59,7 +59,7 @@ This project covers the **entire development cycle**, from **data collection, mo
 | ML   | Arief Fathin A    |  MC671D5Y0223    | Universitas Islam Negeri Ar-Raniry        |
 | FEBE | Hafid Zayyan Ali  |  FC671D5Y0232    | Universitas Islam Negeri Ar-Raniry        |
 | FEBE | Rahma Nabila      |  FC006D5X1430    | Universitas Brawijaya                     |
-| FEBE | Febrian A Hermawan|  FC709D5Y2113    | Universitas Wahid Hasyim Semarang       |
+| FEBE | Febrian A Hermawan|  FC709D5Y2113    | Universitas Wahid Hasyim Semarang         |
 
 ---
 
